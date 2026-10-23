@@ -85,3 +85,5 @@ Also because it was funny.
 Yes.
 
 You may inspect every terrible decision yourself.
+
+Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).

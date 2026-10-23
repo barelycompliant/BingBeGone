@@ -55,3 +55,5 @@ Possibly also:
 - your cousin's weird crypto browser
 - a refrigerator
 - a smart microwave
+
+Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).

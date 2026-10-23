@@ -125,4 +125,4 @@ Portions of this extension were developed with assistance from generative AI too
 
 Do crimes responsibly.
 
-Made with questionable precision by [Barely Compliant Studios](https://barelycompliant.dev).
+Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).

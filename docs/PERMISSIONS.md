@@ -60,3 +60,5 @@ Your searches stay between:
 - your browser
 - your chosen search engine
 - whatever horrifying ad ecosystem already exists there
+
+Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).
