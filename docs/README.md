@@ -120,6 +120,6 @@ Portions of this extension were developed with assistance from generative AI too
 ---
 
 # License
-- [GNU General Public License v3.0](https://github.com/barelycompliant/bingbegone/blob/main/LICENSE)
+- [GNU General Public License v3.0](https://github.com/krishisrani61/bingbegone/blob/main/LICENSE)
 
 Do crimes responsibly.
