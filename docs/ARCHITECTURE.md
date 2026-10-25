@@ -315,6 +315,6 @@ Potentially NOT future features:
 - cryptocurrency
 - subscription plans
 - “BingBeGone Ultra Pro Max”
-```
 
-Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).
+
+# Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).
