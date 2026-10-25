@@ -316,3 +316,5 @@ Potentially NOT future features:
 - subscription plans
 - “BingBeGone Ultra Pro Max”
 ```
+
+Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).

@@ -97,3 +97,5 @@ Unless they add:
 - telemetry
 - browser mining
 - inspirational quotes
+
+Made with questionable precision by [Barely Compliant Studios](https://barelycompliant.dev).

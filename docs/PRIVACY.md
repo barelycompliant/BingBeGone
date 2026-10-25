@@ -78,3 +78,5 @@ The extension would **not** collect:
 Any analytics introduced would be designed to collect only the minimum information necessary to understand how the extension is functioning in the real world and to help prioritize bug fixes and updates.
 
 This section is provided in advance for transparency as analytics features are explored and tested; info would be collected in aggregate and will be publically displayed 
+
+Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).

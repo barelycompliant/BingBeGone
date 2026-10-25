@@ -1,6 +1,7 @@
 <img src="logo.png" width="700">
 
-# BingBeGone
+# BingBeGone 
+[![Barely Compliant Studios](https://img.shields.io/badge/By-Barely%20Compliant%20Studios-001f11?style=flat)](https://barelycompliant.dev)
 
 > Because you said “default browser,” not “default Microsoft experience.”
 
@@ -123,3 +124,5 @@ Portions of this extension were developed with assistance from generative AI too
 - [GNU General Public License v3.0](https://github.com/krishisrani61/bingbegone/blob/main/LICENSE)
 
 Do crimes responsibly.
+
+Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).

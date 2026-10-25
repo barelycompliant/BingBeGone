@@ -68,3 +68,5 @@ Reload the extension first.
 Yes.
 You did.
 Stand your ground.
+
+Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).

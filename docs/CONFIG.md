@@ -97,3 +97,5 @@ This is mainly useful for:
 - testing
 - debugging
 - Stockholm syndrome
+
+Made with questionable precision by [Barely ⊅ Compliant Studios](https://barelycompliant.dev).
