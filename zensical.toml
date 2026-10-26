@@ -9,4 +9,5 @@ docs_dir = "docs"
 copyright = "© Barely Compliant Studios"
 
 [project.theme]
-name = "modern"
+name = "material"
+variant = "modern"
